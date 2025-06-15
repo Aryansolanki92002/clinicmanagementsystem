@@ -5,11 +5,6 @@
 The Clinic Management System is a digital platform designed to revolutionize healthcare clinic operations by replacing manual processes with a comprehensive, role-specific solution. Tailored for doctors and administrative staff, this system enhances efficiency, optimizes workflows, and improves patient care.
 
 ---
-
-## 🌐 Live Demo
-
-[Click here to view the deployed site](https://clinic-management-system-jcks.onrender.com)
-
 ## 🏥 Key Features
 
 ### Doctor Module:
@@ -59,7 +54,7 @@ The Clinic Management System is a digital platform designed to revolutionize hea
 1. **clone repo**
 
 ```bash
-git clone https://github.com/Udit-kasana/Clinic-management-system.git
+
 ```
 
 2. **in backend folder:**
